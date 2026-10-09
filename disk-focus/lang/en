@@ -1,0 +1,14 @@
+index_title=Primary Disk Usage
+df_title=Primary Disk Usage
+df_outof=$1 of $2 used ($3%)
+df_header_one=Filesystem $1 &ndash; $2 free
+df_header_multi=$1 filesystems &ndash; $2 of $3 used ($4%)
+index_none=No configured mount point is currently mounted. Check this module's configuration.
+index_header=Usage for the nominated filesystems only. Bulk storage is deliberately excluded so the headline figure stays meaningful.
+index_dir=Mount point
+index_type=Type
+index_dev=Device
+index_used=Used
+index_free=Free
+index_total=Total
+index_pc=Used %

@@ -1,0 +1,7 @@
+name=Disk Usage
+desc=Disk Usage
+category=system
+hidden=1
+os_support=*-linux
+version=1.0
+longdesc=Hidden helper. The dashboard disk dial opens a module called disk-usage when one exists; this one forwards to Primary Disk Usage.

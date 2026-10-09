@@ -1,0 +1,7 @@
+name=Primary Disk Usage
+category=system
+os_support=*-linux solaris freebsd hpux openbsd netbsd
+desc=Primary Disk Usage
+longdesc=Adds a System Information panel showing usage for only the filesystems you nominate, so bulk storage does not distort the headline disk figure.
+version=1.0
+readonly=1

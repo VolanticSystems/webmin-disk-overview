@@ -1,0 +1,1 @@
+mounts=Mount points to report on,0,Space-separated list of mount points. Anything not listed (bulk storage, backup volumes) is ignored.
